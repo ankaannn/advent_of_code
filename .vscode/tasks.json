@@ -9,7 +9,9 @@
                 "-std=c++17",             
                 "${workspaceFolder}/2020/day1/day1.cpp",
                 "${workspaceFolder}/2020/day1/day1.hpp",
-                "${workspaceFolder}/2020/day1/main.cpp",
+                "${workspaceFolder}/2020/day2/day2.cpp",
+                "${workspaceFolder}/2020/day2/day2.hpp",
+                "${workspaceFolder}/2020/main.cpp",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
